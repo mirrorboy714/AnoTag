@@ -1,4 +1,5 @@
-AnoTag
+AnoTag / あのタグで待ってる
 ======
 
-VJ software by Cobalt Bomb Alpha Omega ( http://www.cobaltbombalphaomega.com ) 
+VJ software produced by Cobalt Bomb Alpha Omega 
+( http://www.cobaltbombalphaomega.com ) 
