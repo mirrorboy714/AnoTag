@@ -1,0 +1,4 @@
+ open thispatcher
+appicon /Users/kagamishouta/Documents/Max/Projects/AnoTag/other/AnoTag.icns
+include "Macintosh HD:/Users/kagamishouta/Documents/Max/Library/jasch_objects/jasch_externals/getpaths.mxo"
+include "/Users/kagamishouta/Documents/Max/Projects/AnoTag/media/DefaultBackground.png"
