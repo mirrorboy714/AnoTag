@@ -1,13 +1,19 @@
-AnoTag / あのタグで待ってる
-======
+AnoTag – Akiba-kei VJ Software
 
-Tag based VJ software for AKIBA VJ 
+AnoTag is a VJ application for Mac. It is originally developed for enhancing VJ style of Akiba-kei Otaku. Akiba-kei VJs prefer to play relevant videos in response to meaning/information/motion in current playing video or music. AnoTag is easy to play videos/images in the same context by choosing a tag. Underscore separated words in a filename are recognised as “tags” of the video by AnoTag.
 
-Produced by:Cobalt Bomb Alpha Omega<br>
-http://www.cobaltbombalphaomega.com
+AnoTag Mac app ver. is available on cobaltbombalphaomega.com and AnoTag open source Max patches version is also available on Github.
 
-Planning / Interaction / MaxMSP：α（@mirrorboy)<br>
-https://twitter.com/mirrorboy
+AnoTag is an abbreviation of Japanese words “Ano Tag de Matteru” which means “Waiting in the tag”, respectfully named after Anime television series “Ano Natsu de Matteru – Waiting in the Summer”.
 
-GUI / Graphic / Persona：Κ (@kakka_NC)<br>
-https://twitter.com/kakka_NC
+-
+
+produced by :
+Cobalt Bomb Alpha Omega
+
+Planning / Interaction / MaxMSP：
+α（@mirrorboy)
+
+GUI / Graphic / Persona：
+Κ (@kakka_NC)
+
